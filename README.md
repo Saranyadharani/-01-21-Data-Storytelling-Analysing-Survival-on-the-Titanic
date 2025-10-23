@@ -13,4 +13,4 @@ Complete data analysis and machine learning project predicting Titanic survival 
 - Most Important Feature: Fare (wealth)
 
 ## Technologies
-Python, Pandas, Scikit-learn, Matplotlib
+Python, Pandas, Scikit-learn, Matplotlib, Random Forest Classifier
